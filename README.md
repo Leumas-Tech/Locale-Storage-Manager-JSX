@@ -1,0 +1,1 @@
+# Locale-Storage-Manager-JSX
