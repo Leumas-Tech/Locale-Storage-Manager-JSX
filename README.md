@@ -18,8 +18,7 @@ function App() {
 }
 
 export default App;
-
-
+```
 
 Use Cases
 Adding New Key-Value Pairs: Easily add new items to the local storage.
@@ -53,10 +52,9 @@ The component uses Tailwind CSS for styling. Adjust the class names as needed to
 vbnet
 Copy code
 
-
 ### Notes for Using this Documentation
 - Replace `./path/to/LocalStorageManager` with the actual path to the `LocalStorageManager` component in your project.
 - Tailor the styling section if you're not using Tailwind CSS or if you have custom styles.
 - This documentation assumes a basic understanding of React and local storage. You may need to adjust the complexity based on your audience.
 
-
+- 
